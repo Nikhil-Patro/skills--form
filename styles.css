@@ -1,0 +1,16 @@
+img{
+    max-width: 150px;
+    max-height: 150px;
+    display: block; 
+}
+.box{
+	margin:  20px 0px 0px -100px;
+	 
+
+}
+.box-shadow{
+	box-shadow:5px 10px blue ;
+}
+.box_r{
+	margin: -10px  0px 0px 20px;
+}
